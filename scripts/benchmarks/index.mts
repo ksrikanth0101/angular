@@ -14,7 +14,7 @@ import {collectBenchmarkResults} from './results.mts';
 import {
   type ResolvedTarget,
   findBenchmarkTargets,
-  getTestlogPath, 
+  getTestlogPath,
   resolveTarget,
 } from './targets.mts';
 import {exec} from './utils.mts';
